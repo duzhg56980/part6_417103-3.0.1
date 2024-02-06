@@ -1,0 +1,6 @@
+import org.apache.dubbo.common.convert.multiple.StringToCollectionConverter;
+public class FunctionUse1078 {
+public void funcUse() {
+StringToCollectionConverter stringtocollectionconverter = new StringToCollectionConverter();
+}
+}
